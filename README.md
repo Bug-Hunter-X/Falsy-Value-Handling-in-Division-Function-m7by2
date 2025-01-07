@@ -1,0 +1,1 @@
+This repository demonstrates a common error in JavaScript related to the handling of falsy values in division operations.  The `bug.js` file contains the erroneous code, which incorrectly handles `0`, but fails to address other falsy values resulting in `NaN`. The `bugSolution.js` file provides the corrected implementation.
